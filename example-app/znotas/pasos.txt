@@ -1,0 +1,6 @@
+pasos:
+- crear proyecto
+- crear base de datos y conectarla en .env
+- crear migraciones necesarias, configurarlas y ejecutarlas
+- crear controlador y modelo
+- crear vista
